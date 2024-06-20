@@ -11,9 +11,9 @@ class LANraragi extends ComicSource {
     minAppVersion = "3.1.0"
 
     host = "http://192.168.5.4:7788"
-
+π
     // 更新链接
-    url = "http://192.168.5.225:8080/index.js"
+    url = "https://github.com/wushuo894/comic_source/raw/master/lanraragi.js"
 
     categories = ["a"]
 

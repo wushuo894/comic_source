@@ -13,7 +13,7 @@ class Komga extends ComicSource {
     host = "http://192.168.5.4:25600"
 
     // 更新链接
-    url = "http://192.168.5.225:8080/komga.js"
+    url = "https://github.com/wushuo894/comic_source/raw/master/komga.js"
 
     categories = []
 
